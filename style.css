@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    margin: 0;
+}
+
+header {
+    background-color: blueviolet;
+}
+
+
+main{
+    background-color: rgb(16, 209, 209);
+}
+header a {
+    background-color: rgb(16, 209, 209);
+    color: white;
+    border: 1px solid black;
+    text-decoration: dashed;
+    font-size: 20px;
+    padding: 3px;
+    margin-right: 150px;
+    margin-left: 10px;
+}
+
+h1 a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10%;
+    justify-content: space-around, space-between;
+    margin-left: 100px;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.nav-link {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10%;
+    justify-content: space-around, space-between;
+    margin-left: 100px;
+    padding: 5px;
+    font-size: 30px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+main img{
+    width:157px;
+    height: 115px;
+    margin: 15px;
+}
+
+.f{
+    width:790px;
+    height: 110px;
+    opacity: 0.5;
+    background: 
+    url("https://dochub.com/m/shared-document/roman-perevoznik/DL7JlEGV13QlaPxRrWe0oa/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA3-png?dt=Yj7UzdREyXNpPGtpmmVs") no-repeat 90% 70%;
+}
+
+footer {
+   background-color: blue;
+}
+
+footer a {
+    color: aliceblue;
+}
+
+.icon_1{
+    width: 60px;
+    margin: 10px;
+}
+
+.footer_text{
+    background-color: white;
+    color: black;
+    border: 5px solid blue;
+}
+
+.flex_footer{
+    display:flex;
+}
+
